@@ -1,1 +1,1 @@
-https://makskuziv.github.io/rsschool-cv/
+https://MaksKuziv.github.io/rsschool-cv/

@@ -237,3 +237,9 @@ p {
     background-size: contain;
     background-repeat: no-repeat;
 }
+.code {
+	margin-top: 50px;
+}
+.about.interest {
+	margin-top: 50px;
+}
